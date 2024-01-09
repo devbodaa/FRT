@@ -25,7 +25,7 @@ pyotp~=2.8.0
 opentele~=1.15.1
 Telethon~=1.26.1
 uvicorn~=0.20.0
-asyncpg
+asyncpg==0.27.0
 psycopg2
 phone-iso3166==0.4.1
 stream-sqlite==0.0.41
