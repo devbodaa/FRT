@@ -1,3 +1,4 @@
+pyproject-toml
 aiofiles==22.1.0
 certifi==2022.12.7
 charset-normalizer==2.1.1
